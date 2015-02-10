@@ -1,2 +1,19 @@
 Resources used for Project 2 --
 
+Udacity course: JavaScript Basics
+
+Udacity style guide
+
+W3 Schools website: for tutorials and examples
+
+stack overflow
+
+Mozilla Developer Network: for JavaScript
+
+Udacity forums / Piazza: office hours notes, student questions and peer and instructor answers
+
+Wikipedia
+
+http://www.jslint.com
+
+http://www.jshint.com
